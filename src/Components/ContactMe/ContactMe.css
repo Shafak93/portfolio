@@ -1,0 +1,12 @@
+.form-box{
+    border-radius: 12px;
+background: #0F1729;
+box-shadow:  -5px 5px 3px #080c16,
+             5px -5px 3px #16223c;
+}
+.input-box{
+    border-radius: 10px;
+background: #0F1729;
+box-shadow: inset -5px 5px 3px #080c16,
+            inset 5px -5px 3px #16223c;
+}

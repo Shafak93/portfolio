@@ -1,0 +1,22 @@
+.download-btn{
+    border-radius: 4px;
+    background: #0F1729;
+    box-shadow:  -5px 5px 8px #090e1a,
+                 5px -5px 8px #152038;
+}
+.icon{
+    border-radius: 0 20px 0 20px;
+    background: #0F1729;
+    box-shadow:  -5px 5px 9px #080d17,
+                 5px -5px 9px #16213b;
+    transition: .2s;
+}
+.icon:hover{
+    border-radius: 20px 0 20px 0;
+}
+.left-img{
+    border-radius: 18px;
+background: #0F1729;
+box-shadow:  -7px 7px 15px #0c1220,
+             7px -7px 15px #121c32;
+}

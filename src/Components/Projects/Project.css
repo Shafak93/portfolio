@@ -1,0 +1,12 @@
+.project{
+    border-radius: 12px;
+background: #0F1729;
+box-shadow:  -5px 5px 1px #080d17,
+             5px -5px 1px #16213b;
+}
+.link-btn{
+    border-radius: 4px;
+    background: #0F1729;
+    box-shadow:  -5px 5px 8px #090e1a,
+                 5px -5px 8px #152038;
+}
